@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/A_Manthan/C++/PatternCreator/build/cmake_install.cmake",
+		"C:/A_Manthan/C++/PatternCreator/build/libs/glfw/cmake_install.cmake",
+		"C:/A_Manthan/C++/PatternCreator/build/libs/glfw/src/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
